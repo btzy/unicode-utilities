@@ -9,4 +9,4 @@ If you are using this header for your projects, I would appreciate if you tell m
 
 ## License
 
-Unicode Utilities is distributed under the MIT license.
+Unicode Utilities is distributed under the MIT License.
